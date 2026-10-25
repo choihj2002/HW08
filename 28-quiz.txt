@@ -1,0 +1,2 @@
+문제 What standardized format is used to store and share cross-linguistic datasets like wordlists and cognate sets, and can be read directly by tools such as LingPy for automatic cognate detection?
+정답 A CLDF format
